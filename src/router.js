@@ -5,7 +5,7 @@ import PageThree from "./components/PageThree.vue";
 
 const routes = [
   {
-    path: "/PageOne",
+    path: "/",
     name: "PageOne",
     component: PageOne,
     props: true,
